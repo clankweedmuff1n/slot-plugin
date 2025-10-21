@@ -14,6 +14,13 @@ This installer was reversed from a compiled `.exe` binary
 
 ---
 
+## Usuage
+
+Copy folder `com.extension.slot` to `C:\Program Files (x86)\Common Files\Adobe\CEP\extensions`
+run in `Window -> Extensions -> slot`
+
+---
+
 ## Disclaimer
 
 This project was created strictly for **educational and reverse-engineering research**.  
